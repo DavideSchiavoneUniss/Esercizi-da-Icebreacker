@@ -1,0 +1,10 @@
+---
+title: "Esericizi da Icebreacker 1"
+author: "Schiavone"
+date: "31 maggio 2017"
+output: html_document
+---
+```{r}
+ufc <- read.csv("../data/ufc.csv")
+```
+
